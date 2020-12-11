@@ -1,3 +1,58 @@
 .active:active{
 color: white;
 }
+.homework{
+  font-size: 35px;
+  margin-top: -10px;
+}
+nav{
+background:#000dba ;
+}
+.fa-chalkboard-teacher{
+  color: white ;
+  font-size: 40px;
+}
+.active:active{
+color: white;
+}
+
+.navbar{
+  font-size: 20px;
+}
+.settings{
+  font-size: 35px;
+}
+.container-fluid-navi{
+  margin: auto;
+  background: #c0e7e9 ;
+  width: 90%;
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.nav-fill{
+  font-size: 25px;
+}
+.avatar{
+  margin-left: -120px;
+}
+.text-color{
+  color: #3700a8 ;
+}
+.button{
+  margin-left: 75px;
+  width: 200px;
+  height: 50px;
+}
+.inputs{
+  margin-left: -80px;
+}
+.save_changes{
+  width: 650px;
+  height: 45px;
+}
+.password{
+  width: 515px;
+  height: 45px;
+}
