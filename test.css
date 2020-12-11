@@ -1,0 +1,136 @@
+nav{
+background:#000dba ;
+}
+.fa-chalkboard-teacher{
+  color: white ;
+  font-size: 40px;
+}
+.active:active{
+color: white;
+}
+
+.navbar{
+  font-size: 20px;
+}
+.dacota{
+  font-size: 40px;
+}
+.news{
+  font-size: 30px;
+}
+.weebkends{
+  height: 150px;
+  border: 1px solid #cfcfcf ;
+  padding: 10px;
+
+}
+.bolt{
+  font-weight: bold;
+}
+.text{
+  height: 50px;
+  width: 100%;
+}
+.span_right{
+  float: right;
+  color: #cfcfcf ;
+}
+.row{
+  flex-direction: column;
+  overflow: hidden;
+  flex-direction: row;
+}
+.Rewards{
+  font-size: 30px;
+  margin-right:  40px;
+}
+
+.left{
+  display: flex;
+  flex-direction: column;
+  }
+  .first {
+    width: 110px;
+  height: 30px;
+   border: 1px solid grey;
+   position: relative;
+   float: right;
+  }
+  .first::before, .first::after {
+   content: '';
+   position: absolute;
+   left: 109px; bottom: -1px;
+   border: 15px solid transparent;
+   border-left:  15px solid grey;
+  }
+  .first::after {
+    border-left: 15px solid white;
+    bottom: -1px; left: 108px;
+  }
+
+
+.first2 {
+  width: 80px;
+height: 30px;
+ border: 1px solid grey;
+ position: relative;
+ left: 30px;
+}
+.first2::before, .first2::after {
+ content: '';
+ position: absolute;
+ left: 79px; bottom: -1px;
+ border: 15px solid transparent;
+ border-left:  15px solid grey;
+}
+.first2::after {
+ border-left: 15px solid white;
+ bottom: -1px; left: 78px;
+}
+.plus_one{
+  font-weight: bold;
+  font-size: 20px;
+
+}
+.image>p{
+  margin: 0;
+}
+.right_text{
+    display: flex;
+    flex-direction: column;
+    }
+
+.border1 {
+width: 110px;
+height: 30px;
+ border: 1px solid grey;
+ position: relative;
+}
+.border1::before, .border1::after {
+ content: '';
+ position: absolute;
+ left:-30px; bottom: -1px;
+ border: 15px solid transparent;
+ border-right: 15px solid grey;
+}
+.border1::after {
+ border-right: 15px solid white;
+ bottom: -1px; left: -29px;
+}
+.border2 {
+width: 80px;
+height: 30px;
+ border: 1px solid grey;
+ position: relative;
+}
+.border2::before, .border2::after {
+ content: '';
+ position: absolute;
+ left:-30px; bottom: -1px;
+ border: 15px solid transparent;
+ border-right: 15px solid grey;
+}
+.border2::after {
+ border-right: 15px solid white;
+ bottom: -1px; left: -29px;
+}

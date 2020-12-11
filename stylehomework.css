@@ -1,0 +1,140 @@
+.active:active{
+color: white;
+}
+.homework{
+  font-size: 35px;
+  margin-top: -10px;
+}
+nav{
+background:#000dba ;
+}
+.fa-chalkboard-teacher{
+  color: white ;
+  font-size: 40px;
+}
+.active:active{
+color: white;
+}
+
+.navbar{
+  font-size: 20px;
+}
+.radio{
+  list-style: none;
+  margin-right: 40px;
+  margin-top: -60px;
+}
+.radio1 input { display: none; }
+ .radio1 label {
+  position: relative;
+  display: inline-block;
+  width: 20px; height: 20px;
+  border-radius: 50%;
+  border: 10px solid #cdcdcd ;
+ }
+ .radio2 input { display: none; }
+  .radio2 label {
+   position: relative;
+   display: inline-block;
+   width: 20px; height: 20px;
+   border-radius: 50%;
+   border: 10px solid #24801f ;
+  }
+  .radio3 input { display: none; }
+   .radio3 label {
+    position: relative;
+    display: inline-block;
+    width: 20px; height: 20px;
+    border-radius: 50%;
+    border: 10px solid #2792c1 ;
+   }
+   .radio4 input { display: none; }
+    .radio4 label {
+     position: relative;
+     display: inline-block;
+     width: 20px; height: 20px;
+     border-radius: 50%;
+     border: 10px solid #ee5da7 ;
+    }
+.java{
+  font-size: 25px;
+  margin-left: 20px;
+  margin-top: -40px;
+}
+hr{
+  color:#bababa ;
+}
+.card-body{
+  padding: 20px;
+}
+.grey{
+  background: #e9e6e6;
+}
+.light_blue{
+  background-color: #227b87;
+  color: white;
+  border-radius: 4px;
+}
+.download{
+background:#227b87;
+border: 1px solid white ;
+width: 250px;
+height: 38px;
+color: white ;
+border-radius: 5px;
+border-top-right-radius: 0px;
+border-bottom-right-radius: 0px;
+}
+.remove{
+background:#227b87;
+border: 1px solid white ;
+width: 250px;
+height: 38px;
+color: white ;
+border-radius: 5px;
+border-top-left-radius: 0px;
+border-bottom-left-radius: 0px;
+border-left: none;
+}
+.css{
+  font-size: 25px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.two_line{
+  margin-top: 20px;
+}
+.pink{
+  background-color: #f09797 ;
+  color: white;
+}
+.download_green{
+background:#16cb69 ;
+border: 1px solid white ;
+width: 250px;
+height: 38px;
+color: white ;
+border-radius: 5px;
+border-top-right-radius: 0px;
+border-bottom-right-radius: 0px;
+}
+.remove_green{
+background:#16cb69 ;
+border: 1px solid white ;
+width: 250px;
+height: 38px;
+color: white ;
+border-radius: 5px;
+border-top-left-radius: 0px;
+border-bottom-left-radius: 0px;
+border-left: none;
+}
+.green{
+  background: #16cb69 ;
+  color: white;
+}
+span{
+  float: right;
+  background-color: #0b8b4a ;
+  border-radius: 10px;
+}
